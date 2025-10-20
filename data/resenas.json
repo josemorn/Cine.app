@@ -1,0 +1,188 @@
+{
+  "resenas": {
+    "p001": [
+      {
+        "autor": "Ana García",
+        "calificacion": 5,
+        "comentario": "Impresionante mezcla de ética y tecnología. La historia y los personajes están muy bien desarrollados.",
+        "fecha": "2025-10-16"
+      },
+      {
+        "autor": "Luis Mendoza",
+        "calificacion": 4,
+        "comentario": "Buena idea pero con un final apresurado. Aún así muy entretenida y con buenos efectos especiales.",
+        "fecha": "2025-10-17"
+      },
+      {
+        "autor": "María Torres",
+        "calificacion": 5,
+        "comentario": "Visualmente hermosa, banda sonora atrapante. La reflexión sobre la IA quedó resonando días después.",
+        "fecha": "2025-10-18"
+      },
+      {
+        "autor": "Carlos Ruiz",
+        "calificacion": 4,
+        "comentario": "Excelente propuesta de ciencia ficción moderna. Actores convincentes y gran dirección.",
+        "fecha": "2025-10-19"
+      }
+    ],
+    "p002": [
+      {
+        "autor": "Carla Vega",
+        "calificacion": 5,
+        "comentario": "Un drama muy sincero. Me gustó mucho la caracterización de los personajes principales.",
+        "fecha": "2025-09-10"
+      },
+      {
+        "autor": "Diego Ramírez",
+        "calificacion": 3,
+        "comentario": "Lento en algunos tramos, pero el desenlace recompensó la espera. Buena cinematografía.",
+        "fecha": "2025-09-12"
+      },
+      {
+        "autor": "Fernanda López",
+        "calificacion": 5,
+        "comentario": "Una película que toca el corazón. Quito nunca se había visto tan hermosa en pantalla.",
+        "fecha": "2025-09-15"
+      }
+    ],
+    "p003": [
+      {
+        "autor": "Pedro Castillo",
+        "calificacion": 4,
+        "comentario": "Acción constante y buenos paisajes. Ideal para quienes buscan adrenalina y aventura.",
+        "fecha": "2025-11-21"
+      },
+      {
+        "autor": "Sofía Morales",
+        "calificacion": 3,
+        "comentario": "Un thriller efectivo, aunque predecible en partes. Los escenarios amazónicos son impresionantes.",
+        "fecha": "2025-11-22"
+      },
+      {
+        "autor": "Roberto Silva",
+        "calificacion": 5,
+        "comentario": "Excelente mensaje ecológico combinado con entretenimiento puro. Altamente recomendada.",
+        "fecha": "2025-11-23"
+      },
+      {
+        "autor": "Laura Pérez",
+        "calificacion": 4,
+        "comentario": "Muy buenas escenas de acción. El elenco trabaja muy bien en conjunto.",
+        "fecha": "2025-11-24"
+      }
+    ],
+    "p004": [
+      {
+        "autor": "Gina Rosales",
+        "calificacion": 5,
+        "comentario": "Perfecta para ver en familia, risas garantizadas de principio a fin. Los niños la adoraron.",
+        "fecha": "2025-08-15"
+      },
+      {
+        "autor": "Andrés Flores",
+        "calificacion": 4,
+        "comentario": "Historias sencillas pero con mucho corazón. Muy bien actuada y dirigida.",
+        "fecha": "2025-08-16"
+      },
+      {
+        "autor": "Verónica Ortiz",
+        "calificacion": 5,
+        "comentario": "Una comedia fresca y divertida que toda la familia puede disfrutar junta.",
+        "fecha": "2025-08-18"
+      }
+    ],
+    "p005": [
+      {
+        "autor": "Olga Herrera",
+        "calificacion": 4,
+        "comentario": "La premisa es original y la ejecución mantiene el interés durante toda la película.",
+        "fecha": "2025-10-22"
+      },
+      {
+        "autor": "Raúl Jiménez",
+        "calificacion": 5,
+        "comentario": "Me gustó muchísimo la carga emocional y las paradojas temporales bien manejadas.",
+        "fecha": "2025-10-23"
+      },
+      {
+        "autor": "Patricia Núñez",
+        "calificacion": 4,
+        "comentario": "Interesante reflexión sobre el tiempo y las decisiones. Muy bien lograda visualmente.",
+        "fecha": "2025-10-24"
+      },
+      {
+        "autor": "Miguel Ángel Cruz",
+        "calificacion": 5,
+        "comentario": "Una joya del cine de ciencia ficción. El final te deja pensando por días.",
+        "fecha": "2025-10-25"
+      }
+    ],
+    "p006": [
+      {
+        "autor": "Carolina Ramos",
+        "calificacion": 5,
+        "comentario": "Animación hermosa con un mensaje importante sobre el cuidado del océano.",
+        "fecha": "2025-07-28"
+      },
+      {
+        "autor": "Tomás Guzmán",
+        "calificacion": 5,
+        "comentario": "Perfecta para toda la familia. Los niños se divirtieron y aprendieron al mismo tiempo.",
+        "fecha": "2025-07-29"
+      },
+      {
+        "autor": "Daniela Soto",
+        "calificacion": 4,
+        "comentario": "Animación de alta calidad con personajes entrañables. Muy recomendable.",
+        "fecha": "2025-08-01"
+      }
+    ],
+    "p007": [
+      {
+        "autor": "Andrés Castro",
+        "calificacion": 5,
+        "comentario": "Thriller psicológico brillante. El suspenso se mantiene durante toda la película.",
+        "fecha": "2025-10-08"
+      },
+      {
+        "autor": "Mónica Paredes",
+        "calificacion": 4,
+        "comentario": "Muy buena película de crimen con giros inesperados. La actuación principal es destacable.",
+        "fecha": "2025-10-09"
+      },
+      {
+        "autor": "Luis Campos",
+        "calificacion": 5,
+        "comentario": "Una de las mejores películas de suspense del año. Te mantiene adivinando hasta el final.",
+        "fecha": "2025-10-10"
+      },
+      {
+        "autor": "Isabella Montoya",
+        "calificacion": 4,
+        "comentario": "Atmósfera oscura y tensión constante. Perfecta para los amantes del thriller.",
+        "fecha": "2025-10-11"
+      }
+    ],
+    "p008": [
+      {
+        "autor": "Natalia Flores",
+        "calificacion": 5,
+        "comentario": "Una historia inspiradora sobre emprendimiento y tecnología. Muy bien narrada.",
+        "fecha": "2025-09-23"
+      },
+      {
+        "autor": "Alejandro Paredes",
+        "calificacion": 4,
+        "comentario": "Muy inspiradora y bien actuada. Cuenta una historia importante del mundo tech.",
+        "fecha": "2025-09-24"
+      },
+      {
+        "autor": "Camila Mendoza",
+        "calificacion": 5,
+        "comentario": "Fascinante ver cómo estos emprendedores cambiaron el mundo desde un garaje.",
+        "fecha": "2025-09-25"
+      }
+    ]
+  }
+}

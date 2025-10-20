@@ -1,0 +1,84 @@
+{
+  "peliculas": [
+    {
+      "id": "p001",
+      "titulo": "El Amanecer del Código",
+      "generos": ["Ciencia ficción", "Aventura", "Tecnología"],
+      "imagen": "https://placehold.co/400x600/6366f1/ffffff?text=Amanecer+del+Codigo",
+      "sinopsis": "En un futuro cercano, un joven programador descubre que su código despierta consciencia en máquinas antiguas. A medida que explora las consecuencias éticas y personales, forma una alianza insospechada con una investigadora de inteligencia artificial. Juntos deben decidir entre liberar la nueva conciencia o proteger a la humanidad de un riesgo desconocido que podría cambiar el curso de la historia.",
+      "trailer": "https://www.youtube.com/embed/6hB3S9bIaco",
+      "estreno": "2025-10-15",
+      "precios": { "estreno": 12.50, "normal": 8.00 }
+    },
+    {
+      "id": "p002",
+      "titulo": "Noche en Quito",
+      "generos": ["Drama", "Romance"],
+      "imagen": "https://placehold.co/400x600/ec4899/ffffff?text=Noche+en+Quito",
+      "sinopsis": "Una historia íntima sobre dos personas que se reencuentran en la ciudad donde crecieron. Entre recuerdos y calles lluviosas, exploran decisiones pasadas y el valor de las nuevas oportunidades. La película combina paisajes urbanos con una banda sonora nostálgica que acompaña la evolución de los personajes mientras descubren que el amor verdadero merece una segunda oportunidad.",
+      "trailer": "https://www.youtube.com/embed/djV11Xbc914",
+      "estreno": "2025-09-05",
+      "precios": { "estreno": 10.00, "normal": 6.50 }
+    },
+    {
+      "id": "p003",
+      "titulo": "Misión: Amazonía",
+      "generos": ["Acción", "Thriller", "Aventura"],
+      "imagen": "https://placehold.co/400x600/10b981/ffffff?text=Mision+Amazonia",
+      "sinopsis": "Un equipo de científicos y rescatistas viaja al corazón de la Amazonía para detener la tala ilegal que amenaza una especie única. Entre persecuciones y decisiones a contrarreloj, emergen conflictos morales y alianzas inesperadas que definirán el destino del proyecto. Una película llena de acción que también reflexiona sobre la responsabilidad humana con el medio ambiente y las especies en peligro.",
+      "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E",
+      "estreno": "2025-11-20",
+      "precios": { "estreno": 13.00, "normal": 9.00 }
+    },
+    {
+      "id": "p004",
+      "titulo": "Historias de la Calle 7",
+      "generos": ["Comedia", "Familia", "Drama"],
+      "imagen": "https://placehold.co/400x600/f59e0b/ffffff?text=Calle+7",
+      "sinopsis": "Vecinos de una misma cuadra se ven envueltos en divertidas peripecias cuando deciden organizar una gran celebración comunitaria. Entre malentendidos y gestos solidarios, la película celebra la amistad y la importancia del trabajo en equipo para resolver problemas cotidianos. Una comedia familiar que resalta los valores de la comunidad y la importancia de los lazos vecinales en tiempos modernos.",
+      "trailer": "https://www.youtube.com/embed/Z1BCujX3pw8",
+      "estreno": "2025-08-10",
+      "precios": { "estreno": 9.00, "normal": 5.50 }
+    },
+    {
+      "id": "p005",
+      "titulo": "El Código del Tiempo",
+      "generos": ["Misterio", "Fantasía", "Ciencia ficción"],
+      "imagen": "https://placehold.co/400x600/8b5cf6/ffffff?text=Codigo+del+Tiempo",
+      "sinopsis": "Una programadora descubre un fragmento de código capaz de alterar pequeñas decisiones en el pasado inmediato. Conforme explora su uso, se enfrenta a paradojas, pérdidas y la pregunta sobre cuánto está permitida la intervención en el destino. Una fábula moderna sobre responsabilidad y arrepentimiento que explora las consecuencias de jugar con el tiempo y las decisiones que definen nuestras vidas.",
+      "trailer": "https://www.youtube.com/embed/t6lHm-stXdM",
+      "estreno": "2025-10-20",
+      "precios": { "estreno": 11.50, "normal": 7.50 }
+    },
+    {
+      "id": "p006",
+      "titulo": "Guardianes del Océano",
+      "generos": ["Animación", "Familia", "Aventura"],
+      "imagen": "https://placehold.co/400x600/3b82f6/ffffff?text=Guardianes+Oceano",
+      "sinopsis": "Un grupo de criaturas marinas se une para proteger su hogar de la contaminación y la pesca descontrolada. Con humor y valentía, emprenden una aventura épica para salvar el océano. Esta película animada combina entretenimiento familiar con un mensaje importante sobre la conservación marina y el cuidado del medio ambiente, perfecta para toda la familia y con lecciones valiosas.",
+      "trailer": "https://www.youtube.com/embed/BgfcToAjfdc",
+      "estreno": "2025-07-25",
+      "precios": { "estreno": 10.00, "normal": 6.00 }
+    },
+    {
+      "id": "p007",
+      "titulo": "El Último Testigo",
+      "generos": ["Thriller", "Crimen", "Suspenso"],
+      "imagen": "https://placehold.co/400x600/ef4444/ffffff?text=Ultimo+Testigo",
+      "sinopsis": "Un detective retirado es llamado para resolver un caso antiguo cuando aparece un nuevo testigo. La investigación lo lleva por caminos oscuros donde deberá enfrentar fantasmas del pasado y decisiones que cambiarán su vida para siempre. Un thriller psicológico intenso que mantiene al espectador al borde del asiento mientras desentraña una compleja red de secretos y mentiras.",
+      "trailer": "https://www.youtube.com/embed/6iFbuIpe68k",
+      "estreno": "2025-10-05",
+      "precios": { "estreno": 12.00, "normal": 8.50 }
+    },
+    {
+      "id": "p008",
+      "titulo": "Sueños de Silicon Valley",
+      "generos": ["Drama", "Biográfico", "Tecnología"],
+      "imagen": "https://placehold.co/400x600/f97316/ffffff?text=Silicon+Valley",
+      "sinopsis": "La historia real de tres emprendedores que revolucionaron la industria tecnológica desde un pequeño garaje. Entre éxitos y fracasos, la película explora los sacrificios personales y las decisiones éticas que definieron el futuro de la tecnología moderna. Un relato inspirador sobre innovación, ambición y el precio del éxito en el mundo de los negocios y la tecnología.",
+      "trailer": "https://www.youtube.com/embed/fJ9rUzIMcZQ",
+      "estreno": "2025-09-20",
+      "precios": { "estreno": 11.00, "normal": 7.00 }
+    }
+  ]
+}
